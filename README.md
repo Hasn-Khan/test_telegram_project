@@ -1,0 +1,1 @@
+![Screenshot](chat-screenshot.png)
